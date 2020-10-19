@@ -4,7 +4,6 @@
 <a href="https://github.com/Joaquim09Castro?tab=followers">
   <img src="https://img.shields.io/github/followers/Joaquim09Castro.svg?style=social&label=Follow&maxAge=2592000">
 </a>
-  <img src="https://img.shields.io/github/stars/Joaquim09Castro.svg?style=social&label=Star&maxAge=2592000">
 
 <br>
 
