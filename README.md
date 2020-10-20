@@ -2,7 +2,7 @@
 
 <p align="right">
 <a href="https://github.com/Joaquim09Castro?tab=followers">
-  <img src="https://img.shields.io/github/followers/Joaquim09Castro.svg?style=plastic&label=Follow&maxAge=2592000">
+  <img src="https://img.shields.io/github/followers/Joaquim09Castro.svg?style=plastic&logo=github&label=Followers&maxAge=2592000&color=%23ECECEC">
 </a>
 
 <br>
