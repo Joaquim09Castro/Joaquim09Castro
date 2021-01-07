@@ -44,5 +44,6 @@
 
 ---
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaquim09Castro&theme=blue-green)
-[![Joaquim's github stats](https://github-readme-stats.vercel.app/api?username=Joaquim09Castro&theme=blue-green)](https://github.com/Joaquim09Castro/github-readme-stats)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaquim09Castro&hide=html,css,scss&langs_count=6&card_width=700&layout=compact&hide_border=1&bg_color=27,136713,020202&title_color=FF6725&text_color=68BEEF)
+
+[![Joaquim's github stats](https://github-readme-stats.vercel.app/api?username=Joaquim09Castro&show_icons=1&hide_border=1&bg_color=27,136713,020202&title_color=FF6725&text_color=68BEEF&icon_color=EFEF55)](https://github.com/Joaquim09Castro/github-readme-stats)
